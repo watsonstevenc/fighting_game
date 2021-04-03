@@ -14,3 +14,4 @@ The first is an input that allows the user to name the fighters and set their at
 
 The second then calls the fighters and actually performs the fight.
 
+Pretty cool, huh?
